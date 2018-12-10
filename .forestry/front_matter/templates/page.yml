@@ -17,3 +17,5 @@ fields:
   name: mais_texto
   label: Mais texto
   description: "+ texto"
+pages:
+- pagina.md

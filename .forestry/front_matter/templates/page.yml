@@ -1,0 +1,19 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: color
+  config:
+    color_format: Hex
+  label: Cor
+  name: cor
+  description: 'Que cor quer escolher '
+- type: text
+  name: texto_
+  label: 'Texto '
+  description: Texto a aparecer
+- type: textarea
+  name: mais_texto
+  label: Mais texto
+  description: "+ texto"
